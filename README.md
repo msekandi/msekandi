@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps/Cloud Engineering roles**
 
-- 👨‍💻 All of my projects are available at [https://github.com/msekandi](https://github.com/msekandi)
+- 👨‍💻 All of my projects are available at [ https://medium.com/@msekandi)
 
 - 📝 I regularly write articles on [https://medium.com/@msekandi](https://medium.com/@msekandi)
 
